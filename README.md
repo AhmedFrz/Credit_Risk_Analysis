@@ -4,11 +4,16 @@
 ## Overview and purpose of the loan prediction risk analysis:
 
 Results: 
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
+
+#### Risk Assessment
+![](Images/risk%20assessment.png)
+
+#### Balance Accurancy Score
+
+![](Images/balance%20accuracy%20score.png)
 
 ## Summary:
 
-### There is a summary of the results (2 pt)
-### There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
 
-
+There is need to improve the model and to make it strong and comprehensive enough.
+Also, the variety of financially engineered products have meant that these new products will also have to accounted for and just the traditional risk analysis methods and models will not work
