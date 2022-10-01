@@ -1,7 +1,10 @@
 # Credit_Risk_Analysis
 
 
-## Overview and purpose of the loan prediction risk analysis:
+## Overview
+
+In this project, we will use machine learning methodologies to build a model that will be able to assess the lender risk. 
+Python and Jupyter notebook will be used for this purpose
 
 Results: 
 
